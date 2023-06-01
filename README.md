@@ -1,4 +1,4 @@
-##Try login with below credential to test
+Try login with below credential to test
 
-##Email: test@gmail.com
-##Password: Test2023
+Email: test@gmail.com
+Password: Test2023
