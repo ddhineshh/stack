@@ -43,9 +43,6 @@ function Login() {
     <div id='log-body'>
       <section id='log-section' className="text-center mx-auto ">
         <p><img src={logo}></img></p>
-        <button className='log-btns bg-white text-dark'><img src={google} className='me-1'></img>Log in with Google</button>
-        <button className='log-btns bg-dark text-white'><img src={github} className='me-1'></img>Log in with GitHub</button>
-        <button className='log-btns bg-fb text-white'><img src={facebook} className='me-1'></img>Log in with Facebook</button>
         <div>
           <form onSubmit={formik.handleSubmit}>
             <div className='d-flex'>
